@@ -11,6 +11,7 @@ Other self-defined properties of V1 neurons are in the form of '.txt' files, the
 
 ## Get started with default configurations
 First, generate external LGN inputs,
+
     run 'ori_hyp.m', generate clustorien/clusthyp/theta/phase.txt (properties of V1 cells);
     run 'thalam_cortex.py', generate connection map from LGN to V1;
     run 'produce_lgn_spike_ONOFFLMI.py', generate 'pythondata.mat'
