@@ -19,7 +19,7 @@ First, generate external LGN inputs,
     
 Put all the .txt files needed in your Workplace_directory, and 
 
-    run 'g++ Pythontest_onoffLMI_1207_Thesis.cpp -o SELF_DEFINED_NAME'
+    run 'g++ Pythontest_onoffLMI.cpp -o SELF_DEFINED_NAME'
     run './SELF_DEFINED_NAME'
 
 Simulating results in Workplace_directory/... and save as .txt files.
